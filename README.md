@@ -14,4 +14,4 @@
 11. Search For Other Users
 
 ---
-The website is hosted by: https://linkedin-clone-a9087.web.app
+The website is hosted by: https://bachelorsgram.web.app
