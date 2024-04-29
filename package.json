@@ -12,6 +12,7 @@
   "dependencies": {
     "antd": "^5.16.5",
     "firebase": "^9.23.0",
+    "firebase-config": "^1.0.0",
     "firebase-tools": "^11.24.0",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.4",
