@@ -70,7 +70,7 @@ export default function LikeButton({ userId, postId, currentUser }) {
             name="comment"
             value={comment}
           />
-          <button className="add-comment-btn" onClick={addComment}>
+          <button className="add-comment-btn" onClick={addComment} disabled={!comment.trim()}>
             Add Comment
           </button>
 

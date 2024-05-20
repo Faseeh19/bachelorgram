@@ -4,6 +4,7 @@ import Register from "../Pages/Register";
 import HomeLayout from "../layouts/HomeLayout";
 import ProfileLayout from "../layouts/ProfileLayout";
 import ConnectionLayout from "../layouts/ConnectionLayout";
+// import Chat from "../components/Chat";
 
 export const router = createBrowserRouter([
   {
